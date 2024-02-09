@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-cout << "I am in main. I put commit 2.\n";
+cout << "I am in bug_fix branch. I put commit 5.\n";
 
 return 0;
 }
